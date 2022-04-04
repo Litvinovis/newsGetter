@@ -1,0 +1,2 @@
+# newsGetter
+news getter
